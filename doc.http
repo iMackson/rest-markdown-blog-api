@@ -45,3 +45,8 @@ Content-Type: application/json
     "password2": "testpass2",
     "email": "testuser2@blog.com"
 }
+
+### Test fetch Post List 
+
+GET http://127.0.0.1:8000/api/posts/
+Content-Type: application/json
